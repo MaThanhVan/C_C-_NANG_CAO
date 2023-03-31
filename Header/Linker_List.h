@@ -14,9 +14,7 @@ typedef struct list
     node *pTail;       /// node quan ly cuoi danh sach
 }list;
 
-node *createNODE( uint8_t data)
-
-void AddHead(list *list, node *nodeAdd) 
+void AddHead(list *list, node *nodeAdd)  
 
 void AddTail(list *list, node *nodeAdd)  
 
