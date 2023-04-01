@@ -52,4 +52,14 @@ typedef union
     thuy duong_hang_thuy;
     phuong_tien loai_phong_tien;
 }phuong_tien_giao_thong;
+
+void duong_hang_khong(phuong_tien_giao_thong *phuong_tien)
+
+void duong_bo(phuong_tien_giao_thong *phuong_tien)
+     
+void duong_thuy(phuong_tien_giao_thong *phuong_tien)
+  
+void hien_thi_gia(phuong_tien_giao_thong phuong_tien)
+    
+void chuong_trinh_chon_duong(phuong_tien_giao_thong *phuong_tien)
 #endif 
